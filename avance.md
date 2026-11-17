@@ -45,3 +45,19 @@ Elegir la ciudad donde conviene abrir el nuevo centro de distribución, buscando
 ### 2.4 Pregunta principal de negocio
 
 ¿En qué municipio del noroeste hay más clientes, menos kilómetros y menos riesgo para abrir el nuevo centro de distribución?
+
+## 3. Planteamiento del problema
+
+### 3.1 El problema en palabras del cliente
+
+"Ya llenamos Baja California. Queremos vender en Sonora, Sinaloa y Baja California Sur, pero no sabemos dónde poner la bodega. Si la ponemos mal, la gasolina y los kilómetros se nos comen la ganancia."
+
+O sea, el cliente tiene ganas de crecer pero no sabe a dónde. Si pone la bodega muy lejos, cada viaje le sale carísimo. Si la pone donde hay pocos clientes, no vende lo suficiente. Y si la pone en un lugar peligroso, puede que los negocios cierren y pierda lo que invirtió.
+
+### 3.2 Justificación
+
+Abrir una bodega es una inversión grande y no se cambia de lugar fácil. Por eso vale la pena revisar los datos antes de decidir. Hay dinero de por medio (renta, camiones, combustible), hay una oportunidad de mercado que otra distribuidora puede ganar primero, y hay un riesgo real en algunas zonas, como Sinaloa, donde muchos negocios han cerrado por la violencia.
+
+### 3.3 Consecuencias de no actuar
+
+Si el cliente no hace nada, se queda estancado en Baja California y los comercios de Hermosillo se los queda otra distribuidora. Si sigue mandando todo desde BC sin una bodega intermedia, cada viaje largo cuesta el doble de combustible y llega más tarde, y así es difícil competir en precio con los distribuidores de allá. Y si escoge solo por tamaño (Culiacán), mete su dinero en una zona con muchos cierres y con viajes 2.2 veces más largos.
