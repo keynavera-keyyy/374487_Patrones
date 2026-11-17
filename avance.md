@@ -61,3 +61,28 @@ Abrir una bodega es una inversión grande y no se cambia de lugar fácil. Por es
 ### 3.3 Consecuencias de no actuar
 
 Si el cliente no hace nada, se queda estancado en Baja California y los comercios de Hermosillo se los queda otra distribuidora. Si sigue mandando todo desde BC sin una bodega intermedia, cada viaje largo cuesta el doble de combustible y llega más tarde, y así es difícil competir en precio con los distribuidores de allá. Y si escoge solo por tamaño (Culiacán), mete su dinero en una zona con muchos cierres y con viajes 2.2 veces más largos.
+
+## 4. Fuentes de información y datos utilizados
+
+### 4.1 Descripción de las fuentes
+
+| Tabla | Origen | Información que contiene | Uso dentro del análisis |
+|---|---|---|---|
+| Tabla 1 | DENUE (INEGI, consultado en Municipio Data y Data México) | Número de negocios por municipio, comercio al por menor, tamaño por número de empleados e índice de especialización | Saber dónde hay más clientes y qué tipo de negocios son (tienditas o cadenas) |
+| Tabla 2 | Precios de gasolina y diésel publicados en medios (Rivera González, 2026; Luz Noticias, 2026; TV Azteca, 2026) | Precio promedio por litro de gasolina magna en BC, Sonora, Sinaloa y BCS, y diésel en Sinaloa | Calcular cuánto cuesta cada viaje y comparar entre estados |
+| Tabla 3 | Secretaría de Economía (2025) y distancias por carretera | Kilómetros aproximados desde Mexicali o Tijuana a cada municipio | Ver qué tan lejos queda cada ciudad de las rutas que ya tiene el cliente |
+| Tabla 4 | Noticias de Coparmex y El Imparcial (Ángulo, 2026; El Imparcial, 2026) | Negocios cerrados y crecimiento de la economía informal en Sinaloa | Medir el riesgo de cada zona, porque el DENUE todavía no muestra esos cierres |
+
+Agregamos la Tabla 4 porque el DENUE está actualizado con los Censos Económicos 2024 y no alcanza a mostrar los cierres de 2025 y 2026.
+
+### 4.2 Justificación de las fuentes
+
+El DENUE es la fuente oficial para saber cuántos negocios hay y dónde, así que es la base para contar clientes. Pero contar negocios no basta: también importa cuánto cuesta llegar a ellos, por eso usamos los precios de gasolina y las distancias. Y como el DENUE va atrasado, usamos noticias recientes para ver qué zonas están en riesgo. Juntas, las cuatro fuentes cubren las tres partes de la pregunta: clientes, kilómetros y riesgo.
+
+### 4.3 Periodo y cobertura de los datos
+
+- **Periodo:** DENUE en varias versiones de 2015 a 2024; precios de gasolina de enero a julio 2026; noticias de 2025 y 2026.
+- **Cobertura geográfica:** seis municipios: Hermosillo y Cajeme (Sonora), Culiacán y Mazatlán (Sinaloa), La Paz y Los Cabos (BCS), además de Baja California como punto de salida.
+- **Número de registros:** 128,754 negocios en total entre los seis municipios.
+- **Fecha de consulta:** noviembre de 2026.
+- **Restricciones:** los precios de gasolina son promedios por estado y no tienen la misma fecha; del diésel solo encontramos el precio de Sinaloa; las distancias son aproximadas; en Cajeme y La Paz no encontramos el dato de comercio al por menor; el DENUE no incluye localidades rurales muy chicas, y algunas versiones tienen saltos raros (por ejemplo, Culiacán pasa de 36,450 negocios en 2015 a 3,197 en 2017).
