@@ -27,3 +27,21 @@ Comparamos seis municipios: Hermosillo, Cajeme, Culiacán, Mazatlán, La Paz y L
 Lo que encontramos: Culiacán tiene más comercios, pero Sinaloa está en riesgo por la violencia (934 negocios cerrados en un año) y queda 2.2 veces más lejos que Hermosillo. Hermosillo tiene 11,504 comercios al por menor, queda a unos 690 km de Mexicali y tiene de la gasolina más barata del país. Junto con Cajeme, ya suma más de la mitad de los negocios de Sonora.
 
 Recomendamos abrir la bodega en Hermosillo y dejar Sinaloa y BCS para después.
+
+## 2. Contexto del cliente y objetivo de negocio
+
+### 2.1 Descripción del cliente
+
+Es una distribuidora que vende mercancía a tiendas de abarrotes, minisúpers y comercios chicos. Ya tiene rutas en todo Baja California y siente que ahí ya no tiene mucho para dónde crecer, por eso quiere entrar a otros estados del noroeste.
+
+### 2.2 Audiencia objetivo
+
+Los resultados son para el gerente de operaciones, que es quien decide dónde abrir la bodega y cómo armar las rutas. También le sirven a los dueños, porque ellos ponen el dinero de la inversión.
+
+### 2.3 Objetivo de negocio
+
+Elegir la ciudad donde conviene abrir el nuevo centro de distribución, buscando que haya muchos clientes posibles, que los traslados no salgan tan caros y que el riesgo de perder la inversión sea bajo.
+
+### 2.4 Pregunta principal de negocio
+
+¿En qué municipio del noroeste hay más clientes, menos kilómetros y menos riesgo para abrir el nuevo centro de distribución?
